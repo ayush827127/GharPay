@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.housing.com	TRUE	/	FALSE	1999999999	__cf_bm	Hu8Kpgd_Ur9PBBKI4VhtUMGGuGu.JOZ7hmuYNEVbN0o-1714477464-1.0.1.1-pmfgO2TTR6BV0hDzDAJ.b0ngVYVsGD3oBPIggeMs.cgfmYagDsmGhI4YrdvOmxVgWpjCLen4TDMYIrgmd5_Rww
+housing.com	TRUE	/	FALSE	1999999999	SameSite	None
+
